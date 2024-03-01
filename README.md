@@ -5,11 +5,11 @@
 * Preserving structure simply means that you can put a value inside and the structure itself won’t change it.
 * Map (or mapper/fmap) is a function that takes a function as an argument and applies that function to the values in the structure it operates on.
 
-#2. MONAD:
+# 2. MONAD:
 * A monad is a structure that combines program fragments (functions), and wraps their return values in a type with additional computation.
 * Example from java java.util.Optional - Monad
 
-#3. MONOIDS:
+# 3. MONOIDS:
 A Monoid is a design pattern expressing function composition of items in a set, 
 is a function that takes two arguments and returns an argument of that type and it supports both the identity property.
 

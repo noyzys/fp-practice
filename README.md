@@ -10,15 +10,15 @@
 * Example from java java.util.Optional - Monad
 
 # 3. MONOIDS:
-A Monoid is a design pattern expressing function composition of items in a set, 
+* A Monoid is a design pattern expressing function composition of items in a set, 
 is a function that takes two arguments and returns an argument of that type and it supports both the identity property.
 
 **Pure functions ;]**
 # IN KOTLIN:
-A higher-order function is a function that takes one or more functions as arguments or returns a function as a result. 
-In Kotlin, We can define higher-order functions using lambda expressions. `( (A, B) -> C )`.
-Example from kotlin functor `fold`.
-A pure function doesn't depend on anything other than its input parameters.
+* A higher-order function is a function that takes one or more functions as arguments or returns a function as a result. 
+* In Kotlin, We can define higher-order functions using lambda expressions. `( (A, B) -> C )`.
+* Example from kotlin functor `fold`.
+* A pure function doesn't depend on anything other than its input parameters.
 
 # USE JAVA SLANG/VAVR:
 * [vavr.official](https://www.vavr.io/)
